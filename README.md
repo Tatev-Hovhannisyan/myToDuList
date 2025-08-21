@@ -1,5 +1,3 @@
-# myToDoList
-
 # ​ myToDuList
 
 A simple **To-Do List web app** implemented using HTML, CSS, and JavaScript—converted into an Astro-style component structure. Each page is divided into components, providing clarity and modularity, and you can run it directly in the browser.
